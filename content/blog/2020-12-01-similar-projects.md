@@ -8,3 +8,9 @@ https://www.lozano-hemmer.com/people_on_people.php
 
 - relating to film history
 https://www.snibbe.com/digital-art#/projects/interactive/deepwalls/
+
+https://www.veradoerk.de/update/
+
+http://hosting.zkm.de/intermedium/d/programm/veranstaltungen/veranstaltung_29
+
+https://sondraperry.com/Double-Quadruple-Etcetera-Etcetera
