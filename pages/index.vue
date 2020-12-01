@@ -8,26 +8,19 @@
 
 <script>
 export default {
-   async asyncData({ $content }) {
-    const posts = await $content("blog").fetch();
-
-    return {
-      posts,
-    };
-  },
-};
-</script>
-<script>
-import Logo from '~/components/Logo.vue'
-import VuetifyLogo from '~/components/VuetifyLogo.vue'
-
-export default {
   head() {
     return {
-      script: [{ src: 'https://identity.netlify.com/v1/netlify-identity-widget.js' }],
+      script: [{ src: 'https://identity.netlify.com/v1/netlify-identity-widget.js' }]
     }
   },
   components: {
+  },
+  async asyncData({ $content }) {
+    const posts = await $content("blog").fetch()
+
+    return {
+      posts
+    }
   }
 }
 </script>
