@@ -1,5 +1,8 @@
 <template>
   <div>
+    <div class='back'>
+      <NuxtLink to="/">back</NuxtLink>
+    </div>
     <h2>{{ post.title }}</h2>
     <nuxt-content :document="post" />
   </div>
@@ -20,5 +23,11 @@ export default {
       post,
     };
   },
-};
+}
 </script>
+
+<style scoped>
+* {
+	font-family: 'Roboto Mono', monospace !important;
+}
+</style>
