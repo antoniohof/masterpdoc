@@ -6,8 +6,8 @@ media_folder: static/img
 public_folder: /img
 
 collections:
-  - name: 'notes'
-    label: 'Note'
+  - name: 'blog'
+    label: 'Blog'
     folder: 'content/blog'
     format: 'frontmatter'
     create: true
