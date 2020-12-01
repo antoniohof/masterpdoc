@@ -42,7 +42,7 @@ Dark room with white silhouettes?
 #### Critical concept points:
 * What to show when two bodies are on top of each other? What kind of content? What makes sense?
 * Acoustics of the room
-* How to exhibit? One person at the time? A personal experience.
+* How to exhibit? One person at the time? A personal experience. where? bunker space, big/small room?
 
 #### Critical technical points: 
 * Recording the depth data or record a video to playback later? 
