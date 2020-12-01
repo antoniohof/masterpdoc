@@ -1,5 +1,5 @@
 ---
-title: First Renderings []
+title: First Renderings
 date: 2020-12-01T13:37:33.157Z
 description: First 3D renderings using Unity
 ---
