@@ -6,6 +6,9 @@
           <a :href="p.link">
             <h3 class="post_title">{{ p.title }}</h3>
             <div class="post_excerpt">{{ p.description }}</div>
+            <div v-if='p.thumbnail' class="post_thumbnail">
+              <img class="post_thumbnail_img" :src='p.thumbnail'/>
+            </div>
           </a>
 			  </NuxtLink>
 			</div>
@@ -116,13 +119,6 @@ export default {
 	width: 100%;
 }
 
-.post_image {
-	filter: grayscale(100%);
-}
-
-.post_image:hover {
-	filter: none !important;
-}
 .post_title {
 	font-size: 14px;
 	color: white !important;
@@ -136,6 +132,18 @@ export default {
 	margin: 10px;
 	text-decoration: none !important;
 	color: white !important;
+}
+
+.post_thumbnail {
+	font-family: 'Roboto Mono', monospace !important;
+	font-size: 10px !important;
+	margin: 10px;
+	text-decoration: none !important;
+	color: white !important;
+}
+
+.post_thumbnail_img {
+  max-width: 200px;
 }
 
 a:hover, a:visited, a:link, a:active
