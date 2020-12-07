@@ -9,3 +9,7 @@ tags: KNOWLEDGE, corporeal
 CONCEPTION OF TRUTH AND HAS AN IMMEDIATE AND 
 
 INTENSE RELATION WITH FACTS.”
+
+
+
+No difference between the person and the experience. We are both.
