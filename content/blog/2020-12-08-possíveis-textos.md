@@ -14,3 +14,7 @@ https://www.scielo.br/pdf/rbep/v7n2/2237-2660-rbep-7-02-00296.pdf (corpo-encruzi
 https://hemi.nyu.edu/eng/seminar/usa/text/leda_paper.html
 
 https://periodicos.ufsm.br/letras/article/view/11881
+
+
+
+http://www3.eca.usp.br/sites/default/files/form/biblioteca/acervo/producao-academica/002865952.pdf
