@@ -21,4 +21,26 @@ because they are subjected to the contamination of the object, but also because 
 According to the epistemologies of the South, embodied knowledge comes alive in living bodies (Leib and not Körper, to use an enlightening distinction in
 they are the bodies that suffer with the defeats and rejoice with the victories.
 
+Both individual and collective bodies are social bodies. Collective bodies, as social groups or classes, castes, sects, peoples, or nations, are the bearers of the struggles but, ultimately, those who suffer or rejoice are the individual bodies.
+
+
+[...]
+
+Even though we think and know with the body, even though it is with the
+body that we have perception, experience, and memory of the world, the body
+tends to be seen as a mere support for or tabula rasa of all the valuable things
+produced by human beings. This is particularly so as regards Eurocentric
+knowledge, whether scientific or not, in view of the cultural, Judeo-Christian
+presuppositions underlying it, saturated as such presuppositions are with the
+sharp distinction between body and soul. 
+
+[...]
+
+
+The epistemologies of the North have great difficulty in embracing the
+body in all its emotional and affective density, without turning it into one more
+object of study. They cannot conceive of the body as an ur-narrative, a somatic
+narrative that precedes and sustains the narratives of which the body speaks or
+writes. The fact that the latter narratives are the only ones that are epistemologically relevant is premised upon the concealment of the somatic narrative that grounds them. The body thus necessarily becomes an absent presence.
+
 Meaning makes things culturally specific and possibly unintelligible. Presence happens in a direct access to our senses, before meaning.Presence operates at the level of instinct and emotion. Presence and meaning are present in all cultures, but some cultures are dominated by one or the other. Modern western culture / epistemologies of the North > meaning-cultures.Non-western cultures > presence-cultures. In intercultural exchanges, presence helps creating a sense of commonality and immediate evidence.
