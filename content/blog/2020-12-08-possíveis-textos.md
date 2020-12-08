@@ -17,4 +17,8 @@ https://periodicos.ufsm.br/letras/article/view/11881
 
 
 
+http://www.seer.ufu.br/index.php/ouvirouver/article/view/37467
+
+
+
 http://www3.eca.usp.br/sites/default/files/form/biblioteca/acervo/producao-academica/002865952.pdf
