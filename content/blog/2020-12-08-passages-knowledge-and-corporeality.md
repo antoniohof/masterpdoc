@@ -44,4 +44,14 @@ writes. The fact that the latter narratives are the only ones that are epistemol
 
 \[...]
 
-Meaning makes things culturally specific and possibly unintelligible. Presence happens in a direct access to our senses, before meaning.Presence operates at the level of instinct and emotion. Presence and meaning are present in all cultures, but some cultures are dominated by one or the other. Modern western culture / epistemologies of the North > meaning-cultures.Non-western cultures > presence-cultures. In intercultural exchanges, presence helps creating a sense of commonality and immediate evidence.
+The epistemologies of the South cannot accept the forgetting of the body because social struggles are not processes that unfold from rational kits. They are the product of complex bricolages in which reasoning and arguments mix with emotions, sorrows and joys, loves and hatreds, festivity and mourning. Emotions are the door to and the path of life in struggle. And bodies are as much at the center of the struggles as the struggles are at the center of the bodies. The bodies are performative and thus renegotiate and expand or subvert the existing reality through what they do. As they act, they act upon themselves; as they say, they say of themselves and to themselves. Mobility and immobility, silence and the cry, all are vital energies that inscribe marks on the bodies, marks that stay beyond the struggles and their successes.
+
+
+
+\[...]
+
+Meaning and Copresence
+
+Corazonar and intimate sufficiencies call for a complex articulation between sharing meaning and being copresent in the specific context of struggle. I have been stressing that meaning does not necessarily involve conceptual language and that narrative and storytelling maybe even more powerful tools to make social experiences separated by time, space, and culture mutually accessible, intelligible, and relevant. It is, however, necessary to go beyond this and to show that sharing risks often involves particularly intense moments of copresence, moments in which presence precedes meaning.
+
+Presence is the thingness or materiality upon which meanings are built. It refers to bodies, signs, sounds, and materials in their nonsemantic capacity, that is, in their direct or immediate access to our senses. It is a form of being that, as Gumbrecht rightly states, “refers to the things of the world before they become part of a culture” (2004: 70). It is through meaning that things become culturally specific and often also incommensurable or unintelligible to other cultures. In my view, such things are not outside a culture; they are rather inside but in a different, noncultural way. They have a prerepresentational capacity for being outside thought and consciousness, while grounding thought and consciousness. They are material and operate at the level of instinct, emotion, affect.
