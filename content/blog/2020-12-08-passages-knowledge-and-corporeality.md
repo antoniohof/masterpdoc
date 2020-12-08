@@ -20,3 +20,5 @@ because they are subjected to the contamination of the object, but also because 
 
 According to the epistemologies of the South, embodied knowledge comes alive in living bodies (Leib and not Körper, to use an enlightening distinction in
 they are the bodies that suffer with the defeats and rejoice with the victories.
+
+Meaning makes things culturally specific and possibly unintelligible. Presence happens in a direct access to our senses, before meaning.Presence operates at the level of instinct and emotion. Presence and meaning are present in all cultures, but some cultures are dominated by one or the other. Modern western culture / epistemologies of the North > meaning-cultures.Non-western cultures > presence-cultures. In intercultural exchanges, presence helps creating a sense of commonality and immediate evidence.
