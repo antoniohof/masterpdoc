@@ -27,7 +27,5 @@ export default {
 </script>
 
 <style scoped>
-* {
-	font-family: 'Roboto Mono', monospace !important;
-}
+
 </style>
