@@ -22,3 +22,7 @@ http://www.seer.ufu.br/index.php/ouvirouver/article/view/37467
 
 
 http://www3.eca.usp.br/sites/default/files/form/biblioteca/acervo/producao-academica/002865952.pdf
+
+![](/img/screen-shot-2020-12-08-at-16.13.50.png)
+
+![](/img/screen-shot-2020-12-08-at-17.28.45.png)
