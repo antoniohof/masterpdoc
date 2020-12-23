@@ -13,26 +13,34 @@ como criar uma relação? que não só beneficie o artista.
 
 que crie experiência, relevância.
 
-
-
 "libertação da bidimensionalidade da tela e da moldura."
 
-
-
 ideia:
-
-
 
 interação com passantes na rua.
 
 como criar uma novo olhar?
 
-
-
 divisões penduradas que se movimentam, criando diferentes espaços.
 
+Séries de parangolés pendurados na marquise.
+
+E com eles pode-se dançar para essa parede que grava os corpos.
+
+
+
+![](/img/screen-shot-2020-12-23-at-14.41.25.png)
+
+![](/img/screen-shot-2020-12-23-at-14.41.30.png)
+
+![](/img/screen-shot-2020-12-23-at-14.41.50.png)
+
+
+
+
+
+
+
 ![](/img/barreiras.png)
-
-
 
 ![](/img/screen-shot-2020-12-23-at-14.19.56.png)
