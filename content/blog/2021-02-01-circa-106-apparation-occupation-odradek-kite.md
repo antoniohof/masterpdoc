@@ -94,6 +94,20 @@ Being visited by Odradek, in this times, comes to break the everyday living spac
 
 Odradek is a trickster, an eternal shape-shifter. It appears as an object but is a subject. It speaks, and the working man wonders: can it die? or better: is it alive?
 
+`No character in literature, oral or written, baffles us quite as much as`
+
+`trickster. He is positively identified with creative powers, often bringing such`
+
+`defining features of culture as fire or basic food, and yet he constantly behaves`
+
+`in the most anti-social manner we can imagine. Although we laugh at him for`
+
+`his troubles and promiscuity, his creative cleverness amazes us and keeps`
+
+`alive the possibility of transcending the social restrictions we regularly`
+
+`encounter” (147).`
+
 Odradek is **Vibrant Matter:**
 
 As described by Jane Bennet in "Vibrant Matter: A political ecology of things":
