@@ -84,7 +84,7 @@ Being visited by Odradek, in this times, comes to break the everyday living spac
 
 Odradek is a trickster, an eternal shape-shifter. It appears as an object but is a subject. It speaks, and the working man wonders: can it die? or better: is it alive?
 
-Odradek is **Vibrant Matter**.
+Odradek is **Vibrant Matter:**
 
 As described by Jane Bennet in "Vibrant Matter: A political ecology of things":
 
@@ -92,11 +92,15 @@ As described by Jane Bennet in "Vibrant Matter: A political ecology of things":
 
 `Wooden yet lively, verbal yet vegetal, alive yet inert, Odradek is onto- logically multiple. He/it is a vital materiality and exhibits what Gilles Deleuze has described as the persistent “hint of the animate in plants, andofthevegetableinanimals.”22Thelate-nineteenth-centuryRussian scientist Vladimir Ivanovich Vernadsky, who also refused any sharp distinction between life and matter, defined organisms as “special, dis- tributed forms of the common mineral, water. . . . Emphasizing the continuity of watery life and rocks, such as that evident in coal or fos- sil limestone reefs, Vernadsky noted how these apparently inert strata are ‘traces of bygone biospheres.’”23 Odradek exposes this continuity of watery life and rocks; he/it brings to the fore the becoming of things.`
 
-
-
 He comes to remember us that objects aren't mere things, they (re) organize themselves, they shape-shift, and come to life. It occupies this house that was transformed into an exhibition space and it's now empty, because of the virus. How can we reorganize ourselves? How can we be inspired by this kite Odradek?
 
-Kites are also symbols of freedom and open space. It comes after so many periods of isolation, also to encourage people to go outside and even maybe try kiting which is a safe activity in this times. 
+`Franz Kafka’s Odradek is one of many barely detectable shapes that inhabit the Earth with us. These shapes largely exceed, underwhelm, or otherwise elide our notice: they are too vague or sharp, or too fast or slow, and their murmurings are too smooth or intermittent for the human sensorium. They are real, but not always fully actual. They exist as ``‘hyper-objects’`` These forms are almost too different from us to matter: almost, because now and then encounters happen and we receive hints of their presence.``They haunt ‘our’ world`
+
+Kites are also symbols of freedom and open space. It comes after so many periods of isolation, also to encourage people to go outside and even maybe try kiting which is a safe activity in this times. A kite is not a mere object, it is alive in the sky, it dances, it has vibrancy, it's a living thing.
+
+`Like Morton’s, Bennett’s is a program of estrangement committed to a kind of Verfrem- dungseffekt because “[i]n the space created by this estrangement, a vital materiality can start to take shape. Or, rather, it can take shape again, for a version of this idea already found expression in ``childhood experiences of a world populated by animate things rather than passive objects”`
+
+
 
 \------
 
