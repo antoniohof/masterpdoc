@@ -82,7 +82,7 @@ Now circa's exhibition space is empty, then it's only a house, where people live
 
 Being visited by Odradek, in this times, comes to break the everyday living space of people, of the kafka's working man. It comes to disturb the banal.
 
-Odradek is a trickster, an eternal shape-shifter. It's an object but more a subject. It speaks, and the working man wonders: can it die? or better: is it alive?
+Odradek is a trickster, an eternal shape-shifter. It appears as an object but is a subject. It speaks, and the working man wonders: can it die? or better: is it alive?
 
 Odradek is **Vibrant Matter**.
 
@@ -92,7 +92,7 @@ As described by Jane Bennet in "Vibrant Matter: A political ecology of things":
 
 `Wooden yet lively, verbal yet vegetal, alive yet inert, Odradek is onto- logically multiple. He/it is a vital materiality and exhibits what Gilles Deleuze has described as the persistent “hint of the animate in plants, andofthevegetableinanimals.”22Thelate-nineteenth-centuryRussian scientist Vladimir Ivanovich Vernadsky, who also refused any sharp distinction between life and matter, defined organisms as “special, dis- tributed forms of the common mineral, water. . . . Emphasizing the continuity of watery life and rocks, such as that evident in coal or fos- sil limestone reefs, Vernadsky noted how these apparently inert strata are ‘traces of bygone biospheres.’”23 Odradek exposes this continuity of watery life and rocks; he/it brings to the fore the becoming of things.`
 
- 
+
 
 He comes to remember us that objects aren't mere things, they (re) organize themselves, they shape-shift, and come to life. It occupies this house that was transformed into an exhibition space and it's now empty, because of the virus. How can we reorganize ourselves? How can we be inspired by this kite Odradek?
 
@@ -115,3 +115,5 @@ Photos of Odradek interpretations, for curiosity purposes:
 ![](/img/630001_1574681513-563x367_width_50.jpg)
 
 ![](/img/220px-zwirn.jpg)
+
+![](/img/odradek.jpg)
