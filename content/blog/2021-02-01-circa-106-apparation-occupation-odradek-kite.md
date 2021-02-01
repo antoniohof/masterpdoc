@@ -78,8 +78,16 @@ It is possible that this Odradek can fly.
 
 What does it mean for circa to be visited by this creature?
 
-Odradek is a trickster, shape-shifter. It's an object but more a subject.
+Now circa's exibiton space is empty, then it's only a house, where people live in.
 
-Odradek is Vibrant Matter.
+Being visited by Odradek, in this times, comes to break the everyday and banal living space of people, of the kafka's working man.
+
+Odradek is a trickster, shape-shifter. It's an object but more a subject. It speaks, and the working man wonders: can it die? or better: is it alive?
+
+Odradek is **Vibrant Matter**.
 
 As described by Jane Bennet in "Vibrant Matter: A political ecology of things":
+
+`Odradek, the protagonist of Franz Kafka’s short story “Cares of a Family Man.” Odradek is a spool of thread who/that can run and laugh; this animate wood exercises an im- personal form of vitality. De Landa speaks of a “spontaneous structural generation” that happens, for example, when chemical systems at far- from-equilibrium states inexplicably choose one path of development rather than another. Like these systems, the material configuration that is Odradek straddles the line between inert matter and vital life.`
+
+`Wooden yet lively, verbal yet vegetal, alive yet inert, Odradek is onto- logically multiple. He/it is a vital materiality and exhibits what Gilles Deleuze has described as the persistent “hint of the animate in plants, andofthevegetableinanimals.”22Thelate-nineteenth-centuryRussian scientist Vladimir Ivanovich Vernadsky, who also refused any sharp distinction between life and matter, defined organisms as “special, dis- tributed forms of the common mineral, water. . . . Emphasizing the continuity of watery life and rocks, such as that evident in coal or fos- sil limestone reefs, Vernadsky noted how these apparently inert strata are ‘traces of bygone biospheres.’”23 Odradek exposes this continuity of watery life and rocks; he/it brings to the fore the becoming of things.`
