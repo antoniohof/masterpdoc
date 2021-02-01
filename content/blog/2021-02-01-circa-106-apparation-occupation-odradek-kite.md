@@ -52,7 +52,7 @@ I started to sketch an Odradek made of the kites.
 
 A hand-made kite has the same properties. Looks senseless, broken down. But it's shapes are whole and finished. 
 
-Odradek unhabits houses, as described by the "family man".
+Odradek inhabits houses, as described by the "family man".
 
 He comes and goes, and he imagines it is in other houses.
 
@@ -82,4 +82,4 @@ Odradek is a trickster, shape-shifter. It's an object but more a subject.
 
 Odradek is Vibrant Matter.
 
-As described by Jane Bennet in "Vibrant Matter: A political ecology of things"
+As described by Jane Bennet in "Vibrant Matter: A political ecology of things":
