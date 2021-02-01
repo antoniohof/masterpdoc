@@ -32,4 +32,14 @@ By re-reading Kafka's story, I started annotating the materials the Odradek is '
 
 I started realizing that the Odradek has the same base materials as the kites I'm creating.
 
-I spreaded my kites on the floor:
+I spread my kites on the floor:
+
+
+
+![](/img/img_20210201_120545730.jpg "kites on the floor")
+
+![](/img/img_20210201_120620115.jpg "kites on the floor #2")
+
+![](/img/img_20210201_120626226.jpg "kites on the floor #3")
+
+![](/img/img_20210201_120553106.jpg "kites on the floor #4")
