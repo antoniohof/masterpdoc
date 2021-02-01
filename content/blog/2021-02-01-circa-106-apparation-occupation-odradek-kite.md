@@ -1,8 +1,8 @@
 ---
-title: circa 106 - apparation / occupation - Odradek Kite
+title: circa 106 - Sighting - Odradekic Kite
 date: 2021-02-01T10:47:37.585Z
-description: A sudden apparition of the Odradek in a new house / space. Shape
-  shifted into a broken kite.
+description: A sudden apparition of a an/The Odradek in a new house/space. Shape
+  shifted into/from a broken kite.
 tags: borges, odradek, kites, shape shifting
 thumbnail: /img/odradek.jpg
 ---
@@ -14,7 +14,7 @@ In the book, Borges adds the Kafka short story "The cares of a family man" in wh
 
 ![borges excerpt 2](/img/screen-shot-2021-02-01-at-11.55.45.png "borges excerpt 2")
 
-By re-reading Kafka's story, I started annotating the materials the Odradek is ''supposely made of, in his description:
+By re-reading Kafka's story, I started annotating the materials the Odradek is ''supposedly made of, in his description:
 
 > `At first glance it looks like a flat star-shaped spool for thread, and indeed it does seem to have thread wound upon it;`
 
@@ -32,6 +32,16 @@ By re-reading Kafka's story, I started annotating the materials the Odradek is '
 
 I started realizing that the Odradek has the same base materials as the kites I'm creating. Maybe is it a kite?
 
+`Odradek then is real. At least we are told to believe so. `**`The description of Odradekin`**
+
+**`the course of the narrative constantly changes shape`**
+
+`Greek mythology; and it is indeed a Herculean task to grasp its full meaning. One`
+
+`way to approach Odradek then is to compare it with the `**`figure of the trickster,`**
+
+**`eternal shape-shifters`**
+
 I spread my kites on the floor:
 
 ![](/img/img_20210201_120545730.jpg "kites on the floor")
@@ -42,7 +52,7 @@ I spread my kites on the floor:
 
 ![](/img/img_20210201_120553106.jpg "kites on the floor #4")
 
-As I started to get closer to the kites, I began to see the shapes of Odradek, with it's wooden rods and even the star shaped format.
+As I started to get closer to the kites, I began to see the shapes of Odradek, with its wooden rods and even the star-shaped format.
 
 I started to sketch an Odradek made of the kites.
 
@@ -50,7 +60,7 @@ I started to sketch an Odradek made of the kites.
 
 > `One is tempted to believe that the creature once had some sort of intelligible shape and is now only a broken-down remnant. Yet this does not seem to be the case; at least there is no sign of it; nowhere is there an unfinished or unbroken surface to suggest anything of the kind; the whole thing looks senseless enough, but in its own way perfectly finished.`
 
-A hand-made kite has the same properties. Looks senseless, broken down. But it's shapes are whole and finished. 
+A hand-made kite has the same properties. Looks senseless, broken down. But its shapes are whole and finished. 
 
 Odradek inhabits houses, as described by the "family man".
 
@@ -99,8 +109,6 @@ He comes to remember us that objects aren't mere things, they (re) organize them
 Kites are also symbols of freedom and open space. It comes after so many periods of isolation, also to encourage people to go outside and even maybe try kiting which is a safe activity in this times. A kite is not a mere object, it is alive in the sky, it dances, it has vibrancy, it's a living thing.
 
 `Like Morton’s, Bennett’s is a program of estrangement committed to a kind of Verfrem- dungseffekt because “[i]n the space created by this estrangement, a vital materiality can start to take shape. Or, rather, it can take shape again, for a version of this idea already found expression in ``childhood experiences of a world populated by animate things rather than passive objects”`
-
-
 
 \------
 
