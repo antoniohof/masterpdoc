@@ -10,8 +10,6 @@ Compose bodies out of people passing by in the street.
 
 Use drawings to super pose on them?
 
-
-
 reference:
 
 ""observations
@@ -19,3 +17,19 @@ reference:
 room with a mirror in the middle, where sometimes people see themselves, sometimes the other side.
 
 https://valiafetisov.com/video-presentaion
+
+\---
+
+mix with surrealist references
+
+(murilo rubiao)
+
+borges
+
+create a real experience
+
+involve some kind of hand-made thing, materials, real interaction via drawing, touch.
+
+a hole in which you could insert drawings?
+
+how does the installations evolves?
