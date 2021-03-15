@@ -1,5 +1,5 @@
 ---
-title: master project - part two
+title: habitual is terrying
 date: 2021-03-03T12:23:44.421Z
 description: Some ideas
 tags: flusser, quote, post-history, thoughts
