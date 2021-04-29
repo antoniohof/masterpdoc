@@ -144,7 +144,7 @@ export default {
 	justify-content: space-evenly
 	align-items: flex-start
 	.category
-		border-left: 1px solid black
+		border-right: 1px solid black
 		padding: 10px
 		&_name
 			color: black
