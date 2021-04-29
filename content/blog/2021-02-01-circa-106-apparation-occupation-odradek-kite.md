@@ -1,5 +1,6 @@
 ---
 title: circa 106 - Sighting - Odradekic Kite
+category: Other
 date: 2021-02-01T10:47:37.585Z
 description: A sudden apparition of a an/The Odradek in a new house/space. Shape
   shifted into/from a broken kite.
