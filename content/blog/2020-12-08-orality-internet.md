@@ -1,5 +1,6 @@
 ---
 title: orality, internet
+category: Broad Research
 date: 2020-12-08T22:50:06.491Z
 description: orality
 tags: orality, internet, boaventura
