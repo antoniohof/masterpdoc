@@ -1,7 +1,9 @@
 ---
 title: How bodies are framed?
+category: Theory
 date: 2020-12-01T13:58:39.342Z
 description: "- Paul Preciado"
+tags: theory, preciado, paul preciado, bodies, framed
 ---
 Paul Preciado.
 
