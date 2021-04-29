@@ -1,7 +1,9 @@
 ---
 title: Studio Visit mit YUNCHUL KIM
+category: Broad Research
 date: 2020-12-01T13:45:12.852Z
 description: things vs objects
+tags: object, things
 ---
 
 
