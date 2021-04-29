@@ -1,5 +1,6 @@
 ---
 title: passages - Knowledge and Corporeality
+category: Broad Research
 date: 2020-12-08T16:39:23.128Z
 description: Boaventura de sousa santos
 tags: boaventura, body, corpo, sabedoria
