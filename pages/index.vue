@@ -1,5 +1,5 @@
 <template>
-  <div class="main">
+  <div class="mainpage">
     <div class="category" v-for="(c, index) in categories" :key="index">
       <span class="category_name">{{ c }}</span>
       <ColumnPosts
@@ -134,24 +134,22 @@ export default {
 </script>
 
 <style scoped lang="sass">
-.main
+.mainpage
 	display: flex
 	flex-flow: row
 	height: 100%
-	width: 100%
+	width: fit-content
 	align-items: center
 	overflow-x: scroll
 	justify-content: space-evenly
 	align-items: flex-start
 	.category
 		border-left: 1px solid black
-		border-right: 1px solid black
-		padding: 5px
+		padding: 10px
 		&_name
 			color: black
 			font-size: 20px
-			font-weight: 500
-			border-bottom: 1px solid black
+			font-weight: 600
 		&_content
 			margin-top: 20px
 </style>

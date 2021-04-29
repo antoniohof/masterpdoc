@@ -57,19 +57,18 @@ export default {
 </script>
 
 <style scoped lang="sass">
+
 .posts
 	display: flex
 	flex-flow: column
 	height: 100%
 	left: 5px
 	top: 5px
-	align-items: center
+	align-items: flex-start
 	overflow-x: hidden
 	width: 100%
 	justify-content: space-evenly
 	z-index: 0
-	filter: drop-shadow(2px 4px 6px black)
-
 
 
 .post
@@ -81,7 +80,7 @@ export default {
 	margin: 1px
 	display: flex
 	align-items: center
-	margin-bottom: 20px
+	border: 1px solid white
 
 
 .post:hover
@@ -104,7 +103,6 @@ export default {
 
 
 .post_excerpt
-	font-family: 'Roboto Mono', monospace !important
 	font-size: 10px !important
 	margin: 10px
 	text-decoration: none !important
@@ -112,7 +110,6 @@ export default {
 
 
 .post_thumbnail
-	font-family: 'Roboto Mono', monospace !important
 	font-size: 10px !important
 	margin: 10px
 	text-decoration: none !important

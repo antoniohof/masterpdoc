@@ -1,11 +1,11 @@
 <template>
-  <div>
-    <div class='back'>
+  <v-container>
+    <div class="back">
       <NuxtLink to="/">back</NuxtLink>
     </div>
     <h2>{{ post.title }}</h2>
     <nuxt-content :document="post" />
-  </div>
+  </v-container>
 </template>
 
 <script>
@@ -20,12 +20,10 @@ export default {
     }
 
     return {
-      post,
+      post
     };
-  },
-}
+  }
+};
 </script>
 
-<style scoped>
-
-</style>
+<style scoped></style>
