@@ -1,5 +1,6 @@
 ---
-title: habitual is terrying
+title: habitual is terrying - flusser
+category: Broad Research
 date: 2021-03-03T12:23:44.421Z
 description: Some ideas
 tags: flusser, quote, post-history, thoughts
