@@ -1,5 +1,6 @@
 ---
-title: content of the video-masks
+title: "ideas for possible content for overlapping/juxtaposition "
+category: Ideas
 date: 2020-12-09T00:00:43.511Z
 description: ideas for the juxtaposing, overlaping
 tags: idea, project
