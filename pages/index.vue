@@ -1,7 +1,11 @@
 <template>
   <div>
+    <ColumnPosts v-for="(c, index) in categories" :posts="filteredPosts(c)" :key="index">
+      <span>{{c}}</span>
+    </ColumnPosts>
+    <!--
 		<transition-group class="posts" id="posts" name="flip-list">
-			<div v-for="(p, index) in searchedPosts" class="post" :key="index">
+			<div v-for="(p) in searchedPosts" class="post" :key="p.slug">
         <NuxtLink :to="p.slug" class="post_body" :style="{ 'transform': getTranslation(p), 'background-color': getColor(p) }">
           <a :href="p.link">
             <h3 class="post_title">{{ p.title }}</h3>
@@ -13,15 +17,21 @@
 			  </NuxtLink>
 			</div>
 		</transition-group>
+    -->
   </div>
 </template>
 
 <script>
+import { ColumnPosts } from '@/components'
+
 export default {
   head () {
     return {
       script: [{ src: 'https://identity.netlify.com/v1/netlify-identity-widget.js' }]
     }
+  },
+  components: {
+    ColumnPosts
   },
   mounted () {
     setTimeout(() => {
@@ -33,7 +43,8 @@ export default {
     return {
       searchValue: '',
       colors: ['#000000'], //, '#4B0082', '#0000FF', '#00FF00', '#ff0066', '#FF7F00', '#FF0000'],
-      tags: []
+      tags: [],
+      categories: ["References", "Moodboard", "Abstractions", "Technical", "Sketches", "Project"]
     }
   },
   computed: {
@@ -47,10 +58,9 @@ export default {
         }
       }
   },
-  components: {
-  },
   async asyncData({ $content }) {
     const posts = await $content("blog").fetch()
+    console.log(posts)
     return {
       posts
     }
@@ -91,6 +101,12 @@ export default {
       }
       this.tags = concatenatedTags.split(",")
       console.log(this.tags)
+    },
+    filteredPosts (c) {
+      return this.searchedPosts.filter((p) => {
+        console.log(p.category)
+        return p.category && p.category.includes(c) > 0
+      })
     }
   },
   watch: {
@@ -101,15 +117,13 @@ export default {
 <style scoped>
 .posts {
 	display: flex;
-	flex-flow: column wrap;
-	max-height: 100vh;
-	height: calc(100vh - 115px);
-	position: fixed;
+	flex-flow: column;
+	height: 100%;
 	left: 5px;
 	top: 5px;
 	align-items: center;
-	overflow-y: hidden;
-	width: 100vw;
+	overflow-x: hidden;
+	width: 100%;
 	justify-content: space-evenly;
 	z-index: 0;
 	filter: drop-shadow(2px 4px 6px black);
