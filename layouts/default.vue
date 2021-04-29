@@ -1,6 +1,6 @@
 <template>
   <v-app>
-    <v-main :class="{ mainpage: $route.path === '/' }">
+    <v-main :class="{ index: $route.path === '/' }">
       <nuxt />
     </v-main>
   </v-app>
@@ -24,7 +24,7 @@ export default {
 img
 	max-width: 100vw
 .v-main
-	&.mainpage
+	&.index
 		max-width: none !important
 		overflow-x: scroll !important
 		width: 100%
