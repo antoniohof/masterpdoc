@@ -1,5 +1,6 @@
 ---
-title: possíveis textos
+title: supporting texts to read
+category: Theory
 date: 2020-12-08T15:11:41.007Z
 description: textos para apresentação
 tags: texts
