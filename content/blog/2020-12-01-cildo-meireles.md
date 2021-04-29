@@ -1,5 +1,6 @@
 ---
 title: Cildo Meireles
+category: Broad Research
 date: 2020-12-01T14:08:43.679Z
 description: documentary
 tags: contemporary,art,reference
