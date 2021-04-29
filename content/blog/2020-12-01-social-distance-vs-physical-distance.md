@@ -1,7 +1,9 @@
 ---
 title: social distance vs physical distance
+category: Broad Research
 date: 2020-12-01T13:49:16.889Z
 description: pandemic thoughts
+tags: thoughts
 ---
 social distance is created in a social relation when power inequalities are present
 
