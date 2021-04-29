@@ -1,8 +1,13 @@
 <template>
-  <div>
-    <ColumnPosts v-for="(c, index) in categories" :posts="filteredPosts(c)" :key="index">
-      <span>{{c}}</span>
-    </ColumnPosts>
+  <div class="main">
+    <div class="category" v-for="(c, index) in categories" :key="index">
+      <span class="category_name">{{ c }}</span>
+      <ColumnPosts
+        class="category_content"
+        :category="c"
+        :posts="filteredPosts(c)"
+      />
+    </div>
     <!--
 		<transition-group class="posts" id="posts" name="flip-list">
 			<div v-for="(p) in searchedPosts" class="post" :key="p.slug">
@@ -22,185 +27,132 @@
 </template>
 
 <script>
-import { ColumnPosts } from '@/components'
+import { ColumnPosts } from "@/components";
 
 export default {
-  head () {
+  head() {
     return {
-      script: [{ src: 'https://identity.netlify.com/v1/netlify-identity-widget.js' }]
-    }
+      script: [
+        { src: "https://identity.netlify.com/v1/netlify-identity-widget.js" }
+      ]
+    };
   },
   components: {
     ColumnPosts
   },
-  mounted () {
-    setTimeout(() => {
-      this.countTags()
-      console.log(this.tags)
-    }, 2000)
-  },
-  data () {
+  mounted() {},
+  data() {
     return {
-      searchValue: '',
-      colors: ['#000000'], //, '#4B0082', '#0000FF', '#00FF00', '#ff0066', '#FF7F00', '#FF0000'],
+      searchValue: "",
+      colors: ["#000000"], //, '#4B0082', '#0000FF', '#00FF00', '#ff0066', '#FF7F00', '#FF0000'],
       tags: [],
-      categories: ["Other", "Broad Research", "Theory", "Ideas", "References", "Technical", "Sketches", "Project"]
-    }
+      categories: [
+        "Other",
+        "Broad Research",
+        "Theory",
+        "Ideas",
+        "References",
+        "Technical",
+        "Sketches",
+        "Project"
+      ]
+    };
   },
   computed: {
-    searchedPosts () {
-        if(this.searchValue !== '') {
-          return this.posts.filter((post) =>  {
-            return this.searchValue.toLowerCase().split(' ').every(v => post.title.toLowerCase().includes(v)) || this.searchValue.toLowerCase().split(' ').every(v => post.description.toLowerCase().includes(v))
-          })
-        } else {
-          return this.posts
-        }
+    searchedPosts() {
+      if (this.searchValue !== "") {
+        return this.posts.filter(post => {
+          return (
+            this.searchValue
+              .toLowerCase()
+              .split(" ")
+              .every(v => post.title.toLowerCase().includes(v)) ||
+            this.searchValue
+              .toLowerCase()
+              .split(" ")
+              .every(v => post.description.toLowerCase().includes(v))
+          );
+        });
+      } else {
+        return this.posts;
       }
-  },
-  async asyncData({ $content }) {
-    const posts = await $content("blog").fetch()
-    console.log(posts)
-    return {
-      posts
     }
   },
+  async asyncData({ $content }) {
+    const posts = await $content("blog").fetch();
+    return {
+      posts
+    };
+  },
   methods: {
-    getRandomInt (min, max) {
+    getRandomInt(min, max) {
       min = Math.ceil(min);
       max = Math.floor(max);
       return Math.floor(Math.random() * (max - min)) + min;
     },
-    getTranslation (p) {
+    getTranslation(p) {
       if (p.translation) {
-        return p.translation
+        return p.translation;
       }
-      let translation = 'translate(' + this.getRandomInt(-15, 15) + 'px,' + this.getRandomInt(-15, 15) + 'px) !important'
-      p.translation = translation
-      return translation
+      let translation =
+        "translate(" +
+        this.getRandomInt(-15, 15) +
+        "px," +
+        this.getRandomInt(-15, 15) +
+        "px) !important";
+      p.translation = translation;
+      return translation;
     },
-    getColor (p) {
+    getColor(p) {
       if (p.color) {
-        return p.color
+        return p.color;
       }
-      let color = this.colors[this.getRandomInt(0, this.colors.length)] + ' !important'
-      p.color = color
-      return color
+      let color =
+        this.colors[this.getRandomInt(0, this.colors.length)] + " !important";
+      p.color = color;
+      return color;
     },
-    countTags () {
-      let concatenatedTags = ""
+    countTags() {
+      let concatenatedTags = "";
       for (let i = 0; i < this.searchedPosts.length; i++) {
         if (this.searchedPosts[i].tags) {
           if (i != 0) {
-            concatenatedTags += ','
+            concatenatedTags += ",";
           }
-          concatenatedTags += this.searchedPosts[i].tags
-        } else {
-          console.log('no tags')
+          concatenatedTags += this.searchedPosts[i].tags;
         }
       }
-      this.tags = concatenatedTags.split(",")
-      console.log(this.tags)
+      this.tags = concatenatedTags.split(",");
     },
-    filteredPosts (c) {
-      return this.searchedPosts.filter((p) => {
-        console.log(p.category)
-        return p.category && p.category.includes(c) > 0
-      })
+    filteredPosts(c) {
+      return this.searchedPosts.filter(p => {
+        return p.category && p.category.includes(c) > 0;
+      });
     }
   },
-  watch: {
-  }
-}
+  watch: {}
+};
 </script>
 
-<style scoped>
-.posts {
-	display: flex;
-	flex-flow: column;
-	height: 100%;
-	left: 5px;
-	top: 5px;
-	align-items: center;
-	overflow-x: hidden;
-	width: 100%;
-	justify-content: space-evenly;
-	z-index: 0;
-	filter: drop-shadow(2px 4px 6px black);
-}
-
-
-.post{
-  cursor: pointer;
-	display: flex;
-	max-width: 500px;
-	max-height: 300px;
-	height: fit-content;
-	margin: 1px;
-  display: flex;
-  align-items: center;
-  transition: 0.4s ease;
-  margin-bottom: 20px;
-}
-
-.post:hover{
-	transition: 0.4s ease;
-	transform: scale(1.08);
-	z-index: 9999;
-}
-
-.post_body {
-  color: white !important;
-  text-decoration: none !important;
-	width: 100%;
-}
-
-.post_title {
-	font-size: 14px;
-	color: white !important;
-	margin: 10px;
-	margin-bottom: 10px !important;
-}
-
-.post_excerpt {
-	font-family: 'Roboto Mono', monospace !important;
-	font-size: 10px !important;
-	margin: 10px;
-	text-decoration: none !important;
-	color: white !important;
-}
-
-.post_thumbnail {
-	font-family: 'Roboto Mono', monospace !important;
-	font-size: 10px !important;
-	margin: 10px;
-	text-decoration: none !important;
-	color: white !important;
-}
-
-.post_thumbnail_img {
-  max-width: 200px;
-}
-
-a:hover, a:visited, a:link, a:active
-{
-    text-decoration: none !important;
-}
-
-.flip-list-move {
-  transition: transform 0.5s ease;
-}
-
-.flip-list-move {
-  transition: transform 0.5s ease;
-}
-
-.flip-list-enter-active, .flip-list-leave-active {
-  transition: all 0.5s;
-}
-.flip-list-enter, .flip-list-leave-to /* .list-leave-active below version 2.1.8 */ {
-  opacity: 0;
-  transform: translateX(200px);
-}
-
+<style scoped lang="sass">
+.main
+	display: flex
+	flex-flow: row
+	height: 100%
+	width: 100%
+	align-items: center
+	overflow-x: scroll
+	justify-content: space-evenly
+	align-items: flex-start
+	.category
+		border-left: 1px solid black
+		border-right: 1px solid black
+		padding: 5px
+		&_name
+			color: black
+			font-size: 20px
+			font-weight: 500
+			border-bottom: 1px solid black
+		&_content
+			margin-top: 20px
 </style>

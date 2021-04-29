@@ -10,12 +10,11 @@
 
 <script>
 export default {
-  mounted () {
-    console.log('mounted app')
+  mounted() {
+    console.log("mounted app");
   },
-  data () {
-    return {
-    }
+  data() {
+    return {};
   }
-}
+};
 </script>

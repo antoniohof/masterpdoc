@@ -1,0 +1,10 @@
+{
+  "editor.tabSize": 2,
+  "eslint.format.enable": true,
+  "vetur.format.options.useTabs": true,
+  "vetur.format.defaultFormatter.ts": "none",
+  "editor.formatOnSave": true,
+  "sass.lint.enable": true,
+  "prettier.semi": false,
+  "javascript.format.semicolons": "remove"
+}
