@@ -1,5 +1,6 @@
 ---
 title: specter/ghost/gaze (fleeting images)
+category: Broad Research
 date: 2021-01-11T14:04:33.378Z
 description: image fleeting moments ephemeral
 tags: image fleeting moments ephemeral derrida ghosts
