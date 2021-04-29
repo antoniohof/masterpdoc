@@ -23,10 +23,17 @@ export default {
       script: [{ src: 'https://identity.netlify.com/v1/netlify-identity-widget.js' }]
     }
   },
+  mounted () {
+    setTimeout(() => {
+      this.countTags()
+      console.log(this.tags)
+    }, 2000)
+  },
   data () {
     return {
       searchValue: '',
-      colors: ['#000000'] //, '#4B0082', '#0000FF', '#00FF00', '#ff0066', '#FF7F00', '#FF0000'],
+      colors: ['#000000'], //, '#4B0082', '#0000FF', '#00FF00', '#ff0066', '#FF7F00', '#FF0000'],
+      tags: []
     }
   },
   computed: {
@@ -36,7 +43,6 @@ export default {
             return this.searchValue.toLowerCase().split(' ').every(v => post.title.toLowerCase().includes(v)) || this.searchValue.toLowerCase().split(' ').every(v => post.description.toLowerCase().includes(v))
           })
         } else {
-          console.log(this.posts)
           return this.posts
         }
       }
@@ -45,7 +51,6 @@ export default {
   },
   async asyncData({ $content }) {
     const posts = await $content("blog").fetch()
-
     return {
       posts
     }
@@ -72,6 +77,23 @@ export default {
       p.color = color
       return color
     },
+    countTags () {
+      let concatenatedTags = ""
+      for (let i = 0; i < this.searchedPosts.length; i++) {
+        if (this.searchedPosts[i].tags) {
+          if (i != 0) {
+            concatenatedTags += ','
+          }
+          concatenatedTags += this.searchedPosts[i].tags
+        } else {
+          console.log('no tags')
+        }
+      }
+      this.tags = concatenatedTags.split(",")
+      console.log(this.tags)
+    }
+  },
+  watch: {
   }
 }
 </script>

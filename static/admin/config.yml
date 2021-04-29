@@ -16,8 +16,10 @@ collections:
       preview: false
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Category', name: 'category', widget: 'select', options: ["References", "Moodboard", "Abstractions", "Technical", "Sketches", "Project"] }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: 'Tags', name: 'tags', widget: 'string' }
       - { label: 'Tags', name: 'tags', widget: 'string' }
       - { label: 'Thumbnail', name: 'thumbnail', widget: 'image', required: false, optional: true }
