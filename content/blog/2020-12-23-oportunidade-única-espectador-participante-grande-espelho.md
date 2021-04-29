@@ -1,5 +1,6 @@
 ---
-title: oportunidade única / espectador-participante- grande espelho
+title: questions to myself / espectador-participante- grande espelho
+category: Broad Research
 date: 2020-12-23T13:19:20.264Z
 description: "Pensamentos para alteração projeto "
 tags: projeto, ideias
