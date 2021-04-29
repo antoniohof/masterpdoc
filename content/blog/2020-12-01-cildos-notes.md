@@ -1,7 +1,9 @@
 ---
 title: cildo's notes
+category: Theory
 date: 2020-12-01T14:34:40.444Z
 description: notebook of cildo meireles
+tags: theory, notes, cildo meireles
 ---
 
 
