@@ -1,5 +1,6 @@
 ---
 title: neo-concrete manifesto passage
+category: Broad Research
 date: 2020-12-01T13:44:11.844Z
 description: manifesto neo-concreto [...]
 tags: manifesto,concreto,poesia
