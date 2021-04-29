@@ -24,7 +24,7 @@ export default {
 img
 	max-width: 100vw
 .v-main
-	&mainpage
+	&.mainpage
 		max-width: none !important
 		overflow-x: scroll !important
 		width: 100%
