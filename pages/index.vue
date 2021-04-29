@@ -44,7 +44,7 @@ export default {
       searchValue: '',
       colors: ['#000000'], //, '#4B0082', '#0000FF', '#00FF00', '#ff0066', '#FF7F00', '#FF0000'],
       tags: [],
-      categories: ["Other", "Broad Research", "Theory", "References", "Moodboard", "Abstractions", "Technical", "Sketches", "Project"]
+      categories: ["Other", "Broad Research", "Theory", "Ideas", "References", "Technical", "Sketches", "Project"]
     }
   },
   computed: {
