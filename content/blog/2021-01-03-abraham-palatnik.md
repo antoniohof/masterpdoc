@@ -1,5 +1,6 @@
 ---
 title: abraham palatnik
+category: Theory
 date: 2021-01-03T11:59:26.966Z
 description: abraham palatnik, references
 tags: references, artist, palatnik
