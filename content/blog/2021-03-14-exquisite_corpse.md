@@ -1,5 +1,6 @@
 ---
 title: "Exquisite_corpse "
+category: Ideas
 date: 2021-03-14T13:07:28.896Z
 description: Exquisite_corpse - how to recreate bodies in a collaborative way
 tags: references, project, master
