@@ -47,7 +47,6 @@ export default {
       colors: ["#000000"], //, '#4B0082', '#0000FF', '#00FF00', '#ff0066', '#FF7F00', '#FF0000'],
       tags: [],
       categories: [
-        "Other",
         "Broad Research",
         "Theory",
         "Ideas",
