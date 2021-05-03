@@ -13,17 +13,13 @@ Soft Corpographies
 
 Corpographies of affection
 
-
+Reflexive Corpographies
 
 corpographies of the pandemic
-
-
 
 (corpo) - body
 
 (graphy) - field study
-
-
 
 An anti anatomical approach. 
 
@@ -39,21 +35,13 @@ Dissection of bodies as Memory containing parts.
 
 All knowledge is corporeal. As a testimonial conception of truth and has an immediate and intense relation with the facts.
 
-
-
 As a completely opposition to the "Bodies: An Exhibition".
 
 What bodies contain? Are made of? Not anatomically. Not scientific.
 
 Metaphorically dissectation.
 
-
-
-
-
 00000
-
-
 
 crying screens.
 
@@ -62,8 +50,6 @@ blur
 cant see yourself so well
 
 we are all in constant drowning.
-
-
 
 "water mirror with memory"
 
