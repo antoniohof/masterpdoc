@@ -37,7 +37,7 @@ All knowledge is corporeal. As a testimonial conception of truth and has an imme
 
 As a completely opposition to the "Bodies: An Exhibition".
 
-
+MARKS ( marcas) no corpo
 
 Purely anathomical and scientific view of body.
 
