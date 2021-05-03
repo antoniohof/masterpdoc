@@ -10,6 +10,8 @@ https://www.artsy.net/article/artsy-editorial-explaining-exquisite-corpse-surrea
 
 ![](/img/esqui32.png)
 
-![](/img/esqui4.png)
+1. ![](/img/esqui4.png)
+
+   ![](/img/exq2.png)
 
 ![](/img/exquisitedrawings.png)
