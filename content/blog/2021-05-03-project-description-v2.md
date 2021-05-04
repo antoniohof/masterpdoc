@@ -21,7 +21,7 @@ corpographies of the pandemic
 
 (graphy) - field study
 
-An anti anatomical approach. 
+An anti-anatomical approach. 
 
 Interwine bodies
 
@@ -33,7 +33,7 @@ To sew bodies together
 
 \------
 
-Affecive dissection of bodies as Memory containing parts.
+Affective dissection of bodies as Memory containing parts.
 
 All knowledge is corporeal. As a testimonial conception of truth and has an immediate and intense relation with the facts.
 
