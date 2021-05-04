@@ -22,7 +22,8 @@ export default {
 	font-family: 'Helvetica', monospace !important
 
 img
-	max-width: 100vw
+	max-width: 60vw
+	margin: 0 auto
 .v-main
 	&.index
 		max-width: none !important

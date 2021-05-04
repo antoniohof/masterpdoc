@@ -1,1 +1,2 @@
-import ColumnPosts from './ColumnPosts' export { ColumnPosts }
+import ColumnPosts from './ColumnPosts'
+export { ColumnPosts }
