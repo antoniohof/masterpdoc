@@ -1,12 +1,16 @@
 ---
-title: Olavo Donasci - Video Criaturas
+title: Otávio Donasci - Video Criaturas
 category: References
 date: 2021-05-03T14:37:40.082Z
 description: Brazilian video artist from the 80s
 tags: references, olavo
 thumbnail: /img/cristal_face2.jpg
 ---
+
+
 Video creatures/. Body parts. 
+
+https://file.org.br/artist/otavio-donasci-2/
 
 ![](/img/4683001363_6233a77a75_c.jpg)
 
