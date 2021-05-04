@@ -1,11 +1,11 @@
 ---
-title: "Project Description v2 - "
+title: Project Description v2 - **Affective Corpographies**
 category: Project
 date: 2021-05-03T15:34:17.800Z
-description: 2th version
-tags: description, test
+description: a second try to find what all of this means
+tags: description, research.
 ---
-Affective Corpography 
+**Affective Corpographies**
 
 Dissolving Corpographies
 
@@ -23,37 +23,39 @@ corpographies of the pandemic
 
 An anti anatomical approach. 
 
-\_\_\_\_\_\_\_\_ is an installation 
+Interwine bodies
 
-Interwine bodies.
+To show Close Ups. To enhance emotion with close ups
 
-To sew bodies.
+To frame real people as protagonists.
+
+To sew bodies together
 
 \------
 
-Dissection of bodies as Memory containing parts.
+Affecive dissection of bodies as Memory containing parts.
 
 All knowledge is corporeal. As a testimonial conception of truth and has an immediate and intense relation with the facts.
 
 As a completely opposition to the "Bodies: An Exhibition".
 
-MARKS ( marcas) no corpo
+Explore body marks. Birth marks.
 
-Purely anathomical and scientific view of body.
+Against a purely anathomical and scientific view of body.
 
-What bodies contain? Are made of? Not anatomically. Not scientific.
+What bodies contain? Are made of? 
 
 Metaphorically dissectation.
 
-00000
+\----
 
 crying screens.
 
-blur
+we are all in constant drowning
 
-cant see yourself so well
+blurry parts
 
-we are all in constant drowning.
+to show people in different perspectives, activating new modes of viewing of oneself.
 
 "water mirror with memory"
 
