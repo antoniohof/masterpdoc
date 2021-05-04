@@ -57,6 +57,8 @@ blurry parts
 
 to show people in different perspectives, activating new modes of viewing of oneself.
 
+how do we perceive our body?
+
 "water mirror with memory"
 
 "photographical water glass mirror"
