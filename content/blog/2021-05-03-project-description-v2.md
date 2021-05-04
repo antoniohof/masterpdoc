@@ -60,3 +60,7 @@ to show people in different perspectives, activating new modes of viewing of one
 "water mirror with memory"
 
 "photographical water glass mirror"
+
+when you cross with people, do you leave a part of yourself?
+
+ “shared embodiments“
