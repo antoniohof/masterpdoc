@@ -7,10 +7,14 @@ tags: documentation, final, photos
 ---
 Video creature
 
-
-
-<!--StartFragment-->
+Sensorial experience of looking and mixing with others
 
  simbiose entre corpo e tecnologia
 
-<!--EndFragment-->
+
+
+Manequin, vitrine..
+
+
+
+Passantes
